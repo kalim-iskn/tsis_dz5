@@ -8,7 +8,7 @@ import java.util.List;
 
 public class Main {
 
-    private static final String RESOURSES_PATH = "/home/iskander/Desktop/ТСИС/sys_analyze/tsis_dz5/src/main/resources/";
+    private static final String RESOURSES_PATH = "C:\\Users\\Гулия\\IdeaProjects\\tsis_dz5\\src\\main\\resources\\";
 
     static CurrencyData[] rub_usd;
     static CurrencyData[] huf_usd;
